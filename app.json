@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "zamart-shop",
+    "slug": "zamart-shop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "zamart-shop"
+}
